@@ -1,3 +1,5 @@
+/*test*/
+
 provider "azurerm" {
    features {}
 }
